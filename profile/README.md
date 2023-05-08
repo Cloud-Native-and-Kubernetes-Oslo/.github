@@ -1,5 +1,5 @@
 # Welcome to Cloud Native and Kubernetes Oslo GitHub! 👋
-![Cloud Native and Kubernetes Oslo banner](./cnako-banner.jpg)
+![Cloud Native and Kubernetes Oslo banner](https://github.com/Cloud-Native-and-Kubernetes-Oslo/.github/blob/main/profile/cnako-banner.jpg)
 
 ## Introduction
 
