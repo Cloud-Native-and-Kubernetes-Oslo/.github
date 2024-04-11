@@ -32,6 +32,7 @@ Currently Cloud Native and Kubernetes Oslo is driven by:
 - **Kristina Devochko**
 - **Bosse Klykken**
 - **Emil Antoni Brasø**
+- **Kristian Schjelderup**
 
 We're always open for any feedback, ideas or help from the community!
 If you would like to help us with:
